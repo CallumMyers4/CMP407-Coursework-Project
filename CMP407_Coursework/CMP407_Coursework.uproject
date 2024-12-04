@@ -29,6 +29,10 @@
 		{
 			"Name": "SteamAudio",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
